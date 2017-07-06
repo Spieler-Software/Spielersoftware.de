@@ -1,0 +1,24 @@
+.header_logo {
+  height: 150px;
+  max-height: 150px;
+  background-color: #12110c;
+}
+
+.header_logo > h1 {
+  /*color: #59E1C7;*/
+
+  background: -webkit-linear-gradient(#59E1C7, #D0B356);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  float: left;
+  line-height: 150px;
+  vertical-align: middle;
+  padding-left: 100px;
+}
+
+.header_logo > img {
+  float: right;
+  max-height: 150px;
+  padding-right: 100px;
+}
