@@ -192,3 +192,7 @@ Die erteilte Einwilligung zur Speicherung der Daten,
 der E-Mail-Adresse sowie deren Nutzung zum Versand des
 Newsletters können Sie jederzeit widerrufen ,
 etwa über den „Austragen“-Link im Newsletter.
+
+### Copyright
+
+Diese Website basiert auf dem [SinglePaged theme](https://github.com/t413/SinglePaged) von Tim O'Brien [t413.com](http://t413.com/). Diese Seite ist [Open Source]({{ site.source_link }}) verfügbar.
